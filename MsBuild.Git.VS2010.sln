@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsBuild.Git", "src\MsBuild.Git\MsBuild.Git.csproj", "{2875800C-D30A-4F57-A9CA-58C3C86D820D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsBuild.Git.Tests", "src\MsBuild.Git.Tests\MsBuild.Git.Tests.csproj", "{0C2199A2-B187-4A18-9F44-51A27D8268AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsBuild.Git.v40", "src\MsBuild.Git.v40\MsBuild.Git.v40.csproj", "{62CE82A9-B6F5-4313-846A-1247A467DD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2875800C-D30A-4F57-A9CA-58C3C86D820D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2875800C-D30A-4F57-A9CA-58C3C86D820D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2875800C-D30A-4F57-A9CA-58C3C86D820D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2875800C-D30A-4F57-A9CA-58C3C86D820D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2199A2-B187-4A18-9F44-51A27D8268AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2199A2-B187-4A18-9F44-51A27D8268AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2199A2-B187-4A18-9F44-51A27D8268AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2199A2-B187-4A18-9F44-51A27D8268AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62CE82A9-B6F5-4313-846A-1247A467DD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CE82A9-B6F5-4313-846A-1247A467DD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CE82A9-B6F5-4313-846A-1247A467DD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CE82A9-B6F5-4313-846A-1247A467DD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
